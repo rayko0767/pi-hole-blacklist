@@ -20,3 +20,4 @@
 0.0.0.0 serving-sys.ru
 0.0.0.0 masdk.googleapis.com
 0.0.0.0 betweendigital.com
+0.0.0.0 *serving-sys.ru
